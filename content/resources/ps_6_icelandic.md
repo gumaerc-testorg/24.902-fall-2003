@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: a39828f6-e432-cfbf-0af9-501c7e7cdb93
 resourcetype: Document
 title: 'Homework #5: Case'
 uid: 06f9c158-37df-61a0-d550-ee27677ba15a

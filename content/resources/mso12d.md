@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: 9281e834-108a-6a89-63d6-c04f6d8db468
 resourcetype: Document
 title: Raising to Subject vs. Subject Control
 uid: cee1d804-1aa0-fa1f-fe81-8df736cc1983

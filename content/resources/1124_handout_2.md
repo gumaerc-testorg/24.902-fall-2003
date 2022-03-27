@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: 9281e834-108a-6a89-63d6-c04f6d8db468
 resourcetype: Document
 title: Wh-movement/Movement in general
 uid: 9d5d3b95-5852-dabb-f79d-621a5d933d56

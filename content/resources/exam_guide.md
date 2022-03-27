@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Exams
 parent_type: CourseSection
+parent_uid: a94a9d26-ec4d-3196-722f-e9103d2ec58e
 resourcetype: Document
 title: Things to know for the final exam
 uid: fd1fc2bf-8fa2-d872-5068-e9460cc8b00e
