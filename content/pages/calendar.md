@@ -1,11 +1,13 @@
 ---
 content_type: page
+description: This calendar section provides the schedule of course topics and assignment
+  due dates.
+draft: false
 learning_resource_types: []
 ocw_type: CourseSection
 title: Calendar
 uid: 6d17734b-a8cc-5356-4498-f21967e0ff81
 ---
-
 {{< tableopen >}}
 {{< theadopen >}}
 {{< tropen >}}
