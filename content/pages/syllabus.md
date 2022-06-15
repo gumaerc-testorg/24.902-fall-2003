@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This syllabus section provides information on course meeting times, readings
+  and attendance, problem sets, squibs, the final exam, and grade computation.
 learning_resource_types: []
 ocw_type: CourseSection
 title: Syllabus
