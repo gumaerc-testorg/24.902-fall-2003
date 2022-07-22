@@ -5,6 +5,7 @@ file: /courses/24-902-language-and-its-structure-ii-syntax-fall-2003/a387b2d4b97
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: Case
 uid: a387b2d4-b977-f137-af86-dad8c9fa27d9
 ---
 Lecture handout on morphological case systems.
-

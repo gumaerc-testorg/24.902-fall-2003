@@ -5,6 +5,7 @@ file: /courses/24-902-language-and-its-structure-ii-syntax-fall-2003/4db0e28ed27
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: 'Homework #7'
 uid: 4db0e28e-d278-27be-4e4b-62611e5d113e
 ---
 Problem set on control versus ECM and raising.
-

@@ -5,6 +5,7 @@ file: /courses/24-902-language-and-its-structure-ii-syntax-fall-2003/e6db47e56dc
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: 'Problem Set #9'
 uid: e6db47e5-6dcc-5c42-581e-53538fde10af
 ---
 Problem set on syntax, binding theory, and psych verbs.
-

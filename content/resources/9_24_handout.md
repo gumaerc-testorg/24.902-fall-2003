@@ -5,6 +5,7 @@ file: /courses/24-902-language-and-its-structure-ii-syntax-fall-2003/6cbfda0ca9c
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: Verb movement
 uid: 6cbfda0c-a9cd-97a4-73c0-4769bf6bb3e8
 ---
 Lecture handout on verb movement.
-

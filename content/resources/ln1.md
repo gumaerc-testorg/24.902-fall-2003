@@ -7,6 +7,7 @@ file: /courses/24-902-language-and-its-structure-ii-syntax-fall-2003/d88a45bae55
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -16,4 +17,3 @@ title: Lecture 1 Summary
 uid: d88a45ba-e55b-3cd1-42b0-4d498d917a77
 ---
 Lecture summary on diagnosing sentence structure, syntactic structure, noun phrases (NP), complements, right-hand adjuncts, left-hand modifiers of N, semantics and the NP rules, and verb phrases (VP).
-

@@ -6,6 +6,7 @@ file: /courses/24-902-language-and-its-structure-ii-syntax-fall-2003/246e2b41f95
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: 'A mini-argument for covert wh-movement in English multiple questions '
 uid: 246e2b41-f95a-c681-bb20-05f2afbf6c66
 ---
 Lecture handout on a mini-argument for covert wh-movement in English multiple questions.
-

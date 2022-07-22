@@ -5,6 +5,7 @@ file: /courses/24-902-language-and-its-structure-ii-syntax-fall-2003/ab6753a136f
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: Lecture 5 Summary
 uid: ab6753a1-36fa-acbc-82c6-7917832cf100
 ---
 Lecture summary on verb movement.
-

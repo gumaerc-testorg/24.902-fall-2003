@@ -5,6 +5,7 @@ file: /courses/24-902-language-and-its-structure-ii-syntax-fall-2003/b64d7e72e8a
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: 'Problem Set #5: Verbs and auxiliary verbs'
 uid: b64d7e72-e8ae-d05c-e2a2-81d0c148a06c
 ---
 Problem set on verbs and auxiliary verbs.
-

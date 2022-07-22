@@ -6,6 +6,7 @@ file: /courses/24-902-language-and-its-structure-ii-syntax-fall-2003/4606e54f40b
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: Lecture 7 Summary
 uid: 4606e54f-40b2-647e-a4fb-a18a69634ebc
 ---
 Lecture summary on the English verbal system, and an introduction to case.
-

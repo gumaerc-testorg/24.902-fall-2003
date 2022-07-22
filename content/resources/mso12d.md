@@ -6,6 +6,7 @@ file: /courses/24-902-language-and-its-structure-ii-syntax-fall-2003/cee1d8041aa
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: Raising to Subject vs. Subject Control
 uid: cee1d804-1aa0-fa1f-fe81-8df736cc1983
 ---
 Lecture summary on predicates and arguments, raising-to-subject predicates, subject control versus raising to subject, and other types of control of PRO.
-

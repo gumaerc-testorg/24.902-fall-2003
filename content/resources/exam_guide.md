@@ -5,6 +5,7 @@ file: /courses/24-902-language-and-its-structure-ii-syntax-fall-2003/fd1fc2bf8fa
 file_type: application/pdf
 learning_resource_types:
 - Exams
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Exams
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: Things to know for the final exam
 uid: fd1fc2bf-8fa2-d872-5068-e9460cc8b00e
 ---
 A representative list of topics covered in the final exam of the course.
-

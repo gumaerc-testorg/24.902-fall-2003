@@ -5,6 +5,7 @@ file: /courses/24-902-language-and-its-structure-ii-syntax-fall-2003/b734b6b6a39
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -14,5 +15,3 @@ title: wh-movement
 uid: b734b6b6-a394-0bff-65e3-d9028374ea42
 ---
 Lecture handout on wh-words and wh-movement.
-
-

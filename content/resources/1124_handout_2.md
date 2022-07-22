@@ -5,6 +5,7 @@ file: /courses/24-902-language-and-its-structure-ii-syntax-fall-2003/9d5d3b95585
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: Wh-movement/Movement in general
 uid: 9d5d3b95-5852-dabb-f79d-621a5d933d56
 ---
 Lecture handout on wh-movement and movement in general.
-

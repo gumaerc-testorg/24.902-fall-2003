@@ -5,6 +5,7 @@ file: /courses/24-902-language-and-its-structure-ii-syntax-fall-2003/910f9d235b2
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: Lecture 4 Summary
 uid: 910f9d23-5b22-f5fa-34bd-455cc7318fb9
 ---
 Lecture summary on Japanese phrase structure, scrambling, and verb movement.
-
