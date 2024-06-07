@@ -2,6 +2,7 @@
 content_type: resource
 description: Problem set on syntax trees.
 file: /courses/24-902-language-and-its-structure-ii-syntax-fall-2003/21897e4e80dc6e2ae35ac91f89d57c97_ps_3.pdf
+file_size: 57788
 file_type: application/pdf
 learning_resource_types:
 - Assignments
