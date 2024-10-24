@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Problem set on verbs and auxiliary verbs.
-file: /courses/24-902-language-and-its-structure-ii-syntax-fall-2003/b64d7e72e8aed05ce2a281d0c148a06c_ps_5_sol.pdf
+file: /ol-ocw-studio-app/courses/24-902-language-and-its-structure-ii-syntax-fall-2003/b64d7e72e8aed05ce2a281d0c148a06c_ps_5_sol.pdf
 file_size: 101033
 file_type: application/pdf
 learning_resource_types:

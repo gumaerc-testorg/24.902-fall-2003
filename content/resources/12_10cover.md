@@ -2,7 +2,7 @@
 content_type: resource
 description: Lecture handout on a mini-argument for covert wh-movement in English
   multiple questions.
-file: /courses/24-902-language-and-its-structure-ii-syntax-fall-2003/246e2b41f95ac681bb2005f2afbf6c66_12_10cover.pdf
+file: /ol-ocw-studio-app/courses/24-902-language-and-its-structure-ii-syntax-fall-2003/246e2b41f95ac681bb2005f2afbf6c66_12_10cover.pdf
 file_size: 69841
 file_type: application/pdf
 learning_resource_types:
