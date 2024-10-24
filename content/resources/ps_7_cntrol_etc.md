@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Problem set on control versus ECM and raising.
-file: /courses/24-902-language-and-its-structure-ii-syntax-fall-2003/4db0e28ed27827be4e4b62611e5d113e_ps_7_cntrol_etc.pdf
+file: /ol-ocw-studio-app/courses/24-902-language-and-its-structure-ii-syntax-fall-2003/4db0e28ed27827be4e4b62611e5d113e_ps_7_cntrol_etc.pdf
 file_size: 102348
 file_type: application/pdf
 learning_resource_types:

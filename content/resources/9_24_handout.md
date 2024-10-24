@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Lecture handout on verb movement.
-file: /courses/24-902-language-and-its-structure-ii-syntax-fall-2003/6cbfda0ca9cd97a473c04769bf6bb3e8_9_24_handout.pdf
+file: /ol-ocw-studio-app/courses/24-902-language-and-its-structure-ii-syntax-fall-2003/6cbfda0ca9cd97a473c04769bf6bb3e8_9_24_handout.pdf
 file_size: 112622
 file_type: application/pdf
 learning_resource_types:
