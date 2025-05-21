@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Lecture handout on morphological case systems.
-file: /ol-ocw-studio-app/courses/24-902-language-and-its-structure-ii-syntax-fall-2003/a387b2d4b977f137af86dad8c9fa27d9_morpho_handout.pdf
+file: /courses/24-902-language-and-its-structure-ii-syntax-fall-2003/a387b2d4b977f137af86dad8c9fa27d9_morpho_handout.pdf
 file_size: 97533
 file_type: application/pdf
 learning_resource_types:

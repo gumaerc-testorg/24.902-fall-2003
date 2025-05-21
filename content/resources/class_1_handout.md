@@ -2,7 +2,7 @@
 content_type: resource
 description: Lecture handout on syntax, dysfunctional analogies, and language differences
   against a backdrop of language similarities.
-file: /ol-ocw-studio-app/courses/24-902-language-and-its-structure-ii-syntax-fall-2003/290d8ddf9e516dca521e638f3231e36b_class_1_handout.pdf
+file: /courses/24-902-language-and-its-structure-ii-syntax-fall-2003/290d8ddf9e516dca521e638f3231e36b_class_1_handout.pdf
 file_size: 216141
 file_type: application/pdf
 learning_resource_types:
