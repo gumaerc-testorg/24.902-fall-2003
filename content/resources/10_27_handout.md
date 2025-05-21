@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Lecture handout on unaccusativity.
-file: /ol-ocw-studio-app/courses/24-902-language-and-its-structure-ii-syntax-fall-2003/45233e9d7322c500f4a0ed686c214173_10_27_handout.pdf
+file: /courses/24-902-language-and-its-structure-ii-syntax-fall-2003/45233e9d7322c500f4a0ed686c214173_10_27_handout.pdf
 file_size: 128560
 file_type: application/pdf
 learning_resource_types:

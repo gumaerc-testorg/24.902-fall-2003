@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: "Lecture handout on wh-words and wh-movement.\r\n"
-file: /ol-ocw-studio-app/courses/24-902-language-and-its-structure-ii-syntax-fall-2003/b734b6b6a3940bff65e3d9028374ea42_1117_handout_1.pdf
+file: /courses/24-902-language-and-its-structure-ii-syntax-fall-2003/b734b6b6a3940bff65e3d9028374ea42_1117_handout_1.pdf
 file_size: 89741
 file_type: application/pdf
 learning_resource_types:
