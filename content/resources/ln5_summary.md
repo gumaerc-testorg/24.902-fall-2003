@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Lecture summary on verb movement.
-file: /courses/24-902-language-and-its-structure-ii-syntax-fall-2003/ab6753a136faacbc82c67917832cf100_ln5_summary.pdf
+file: /ol-ocw-studio-app/courses/24-902-language-and-its-structure-ii-syntax-fall-2003/ab6753a136faacbc82c67917832cf100_ln5_summary.pdf
 file_size: 72633
 file_type: application/pdf
 learning_resource_types:
