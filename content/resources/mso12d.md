@@ -2,7 +2,7 @@
 content_type: resource
 description: Lecture summary on predicates and arguments, raising-to-subject predicates,
   subject control versus raising to subject, and other types of control of PRO.
-file: /courses/24-902-language-and-its-structure-ii-syntax-fall-2003/cee1d8041aa0fa1ffe818df736cc1983_mso12D.pdf
+file: /ol-ocw-studio-app/courses/24-902-language-and-its-structure-ii-syntax-fall-2003/cee1d8041aa0fa1ffe818df736cc1983_mso12D.pdf
 file_size: 144948
 file_type: application/pdf
 learning_resource_types:

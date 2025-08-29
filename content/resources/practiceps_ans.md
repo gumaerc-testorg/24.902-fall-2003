@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Solutions to an optional final problem on wh-movement and islands.
-file: /courses/24-902-language-and-its-structure-ii-syntax-fall-2003/87dbba8720f955eb0e8cd3eec495660a_practiceps_ans.pdf
+file: /ol-ocw-studio-app/courses/24-902-language-and-its-structure-ii-syntax-fall-2003/87dbba8720f955eb0e8cd3eec495660a_practiceps_ans.pdf
 file_size: 73168
 file_type: application/pdf
 learning_resource_types:
